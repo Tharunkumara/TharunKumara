@@ -1,8 +1,10 @@
 Hi there 👋 I am Tharun Kumar
 
-# 💫 I'am a Google Certified Data Analyst. I'm a data enthusiast who is passionate about using data analysis to uncover hidden patterns and resolve challenging issues. I recently finished my post-graduate study in business at Humber College, I previously worked for Amazon as a Catalog Analyst/Associate and I'm currently looking for a full time data analyst role.
+# 💫 I'am a Google Certified Data Analyst.
 
 def Tharun_Kumar_about_me():<br>i = {}<br> i['am'] = ['Post graduate in International Business']<br> i['love'] = ['cleaning', 'analyzing', 'visualizing', 'presenting']<br> i['talk to computer using'] = ['Python', 'R', 'SQL']<br> i['am looking for'] = 'Full-time Data Analyst Opportunities'
+
+I'm a data enthusiast who is passionate about using data analysis to uncover hidden patterns and resolve challenging issues. I recently finished my post-graduate study in business at Humber College, I previously worked for Amazon as a Catalog Analyst/Associate and I'm currently looking for a full time data analyst role.
 
 ⚡ Fun fact I'm a tech geek and a cooking enthusiast.
 
